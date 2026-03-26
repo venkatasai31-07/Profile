@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Venkata%20Sai%20P&fontSize=90&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Aspiring%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Venkata%20Sai%20P&fontSize=90&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist%20%26%20Data%20Analyst&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <h3 align="center">Welcome to my Digital Laboratory 🔬</h3>
@@ -17,8 +17,8 @@
 ```python
 class Student(DataScientist):
     def __init__(self):
-        self.name = "Venkata Sai P"
-        self.role = "Data Science Student"
+        self.name = "Venkata Sai Penumudi"
+        self.role = "Aspiring Data Scientist & Data Analyst"
         self.passions = ["Machine Learning", "Data Analysis", "Artificial Intelligence"]
         
     def current_status(self):
