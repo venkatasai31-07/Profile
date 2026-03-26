@@ -33,7 +33,7 @@ class Student(DataScientist):
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,jupyter,sklearn,tensorflow,pytorch,pandas,postgres,mysql,matlab,tableau,git,docker,linux&perline=7" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,postgres,mysql,matlab,bash,git,docker,linux,aws&perline=6" alt="Tech Stack"/>
   </a>
 </p>
 
