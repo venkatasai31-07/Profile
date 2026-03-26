@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Venkata%20Sai%20P&fontSize=90&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist%20%26%20Data%20Analyst&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Venkata%20Sai%20Penumudi&fontSize=70&desc=Aspiring%20Data%20Scientist%20%26%20Data%20Analyst&descSize=25&fontAlignY=38&descAlignY=55" alt="Venkata Sai Penumudi" />
 </div>
 
 <h3 align="center">Welcome to my Digital Laboratory 🔬</h3>
@@ -24,7 +24,7 @@ class Student:
     def current_status(self):
         return {
             "learning": ["Deep Learning", "NLP", "Advanced Statistics"],
-            "seeking": "Internships & Open Source collaborations",
+            "seeking": "Internships & Open Source Collaborations",
             "coffee_intake": "High ☕"
         }
 ```
