@@ -15,7 +15,7 @@
 ### 👨‍🎓 About Me
 
 ```python
-class Student(DataScientist):
+class Student:
     def __init__(self):
         self.name = "Venkata Sai Penumudi"
         self.role = "Aspiring Data Scientist & Data Analyst"
