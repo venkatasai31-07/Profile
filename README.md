@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Venkata%20Sai%20Penumudi&fontSize=70&desc=Aspiring%20Data%20Scientist%20%26%20Data%20Analyst&descSize=25&fontAlignY=38&descAlignY=55" alt="Venkata Sai Penumudi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=79C0FF&center=true&vCenter=true&width=800&height=120&lines=Hi+there,+I'm+Venkata!+%F0%9F%91%8B;Aspiring+Data+Scientist+;Data+Analyst" alt="Venkata Sai Penumudi Banner" />
 </div>
 
 <h3 align="center">Welcome to my Digital Laboratory 🔬</h3>
