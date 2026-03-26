@@ -12,6 +12,8 @@
 
 ---
 
+<img src="./profile.jpg" width="230" align="right" alt="Venkata Sai Penumudi Profile Picture" />
+
 ### 👨‍🎓 About Me
 
 ```python
